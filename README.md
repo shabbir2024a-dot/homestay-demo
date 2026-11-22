@@ -1,3 +1,5 @@
+<img src=".github/cover.png" alt="cover" width="100%" />
+
 # Highland Pine Retreat — homestay booking website
 
 A direct-booking website for a holiday cabin or homestay, so owners can take bookings without paying OTA commission.
